@@ -9,7 +9,7 @@ This script will dump your application's databases and users.
 It can stream these to a new destination or dump locally. 
 
 ####Usage
-
+```
 MySQL Migration Helper
 ----------------------
 This script should help migrate mysql databases,
@@ -21,8 +21,9 @@ Options...
 --srcuser <String> #Source Database Migration User.
 --srcpass <String> #Source Database Migration Password.
 --srchost <String> #Source Database Hostname/IP address.
-Note: If you don't provide these details, the mysql(dump)fdasfdsa
- commands will be run with default values.
+
+Note: If you don't provide these details, the mysql(dump)
+ commands will be run with default values (from my.cnf).
 
 --dstuser <String> #Destination Database Username.
 --dstpass <String> #Destination Database Password.
@@ -34,4 +35,5 @@ Note: Destination is required to do full migration.
  If there is no destination configuration, only the
  MySQLDump and User Grants will be pulled down to '/tmp'.
 
-fffds
+```
+
