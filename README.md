@@ -1,4 +1,8 @@
-#WORK IN PROGRESS - UNSUPPORTED BY RACKSPACE - USE AT YOUR OWN RISK
+#WORK IN PROGRESS
+------
+#UNSUPPORTED BY RACKSPACE
+------
+#USE AT YOUR OWN RISK
 ======
 # raxcdb
 ##Rackspace Public Cloud Databases Scripts and Documentation
