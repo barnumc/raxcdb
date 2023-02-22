@@ -1,20 +1,20 @@
-#WORK IN PROGRESS
+# WORK IN PROGRESS
 ------
-#UNSUPPORTED BY RACKSPACE
+# UNSUPPORTED BY RACKSPACE
 ------
-#USE AT YOUR OWN RISK
+# USE AT YOUR OWN RISK
 ======
 # raxcdb
-##Rackspace Public Cloud Databases Scripts and Documentation
+## Rackspace Public Cloud Databases Scripts and Documentation
 
-###migrate.sh
+### migrate.sh
 This is a script for migrating from one MySQL Server to Another. 
 The primary intention is to migrate to Rackspace Cloud Databases. 
 
 This script will dump your application's databases and users. 
 It can stream these to a new destination or dump locally. 
 
-####Usage
+#### Usage
 ```
 MySQL Migration Helper
 ----------------------
